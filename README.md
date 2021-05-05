@@ -1,6 +1,6 @@
-#E-commerce Django project
+# E-commerce Django project
 
-##Usage:
+## Usage:
 
 pip install -r requirements.txt :install all packages
 
